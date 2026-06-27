@@ -1,14 +1,25 @@
 # GitLab Learning Journal
 
-This folder contains important GitLab topics organized into separate subfolders. Each subfolder includes a focused `README.md` covering key concepts and workflows.
+I created this folder to capture what I am learning about GitLab in a way that feels natural and easy to follow.
 
-## Topics
+This is my study log: I write notes as I practice, I add commands I tried, and I keep the structure simple so I can expand it later.
 
-- `Basic-cmds`: Essential GitLab command usage and Git operations.
-- `Branching`: Branch strategies and workflow guidance.
-- `Merge-Requests`: Merge request process and best practices.
-- `GitLab-CI-CD`: GitLab CI/CD pipelines and automation.
-- `Runners`: GitLab Runner setup and execution.
-- `Permissions-Security`: Project access, roles, and security controls.
-- `Issue-Tracking`: Issues, boards, and planning.
-- `Container-Registry`: Docker container registry usage in GitLab.
+## Current focus
+
+- `Basic-cmds/` — GitLab commands and Git workflow.
+- `Branching/` — branch creation, naming, and workflows.
+- `Merge-Requests/` — merge request process and review steps.
+- `Runners/` — GitLab runner basics and how I experimented with them.
+- `Permissions-Security/` — project permissions, protected branches, and access control.
+- `Container-Registry/` — using GitLab’s built-in registry for container images.
+
+## Notes
+
+- I am not documenting GitLab CI/CD in detail yet.
+- I am not covering issue tracking yet.
+
+Those topics are planned, but I want the current material to be clean and focused for recruiters reviewing the repo.
+
+## How to use this folder
+
+Each subfolder is a note from my learning process. Start with `Basic-cmds/`, then move to `Branching/` and `Merge-Requests/` to see how I connect commands with real GitLab workflows.

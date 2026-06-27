@@ -1,8 +1,3 @@
 # GitLab Issue Tracking
 
-This section explains GitLab issue and planning workflows:
-
-- Creating and managing issues.
-- Using labels, milestones, and issue boards.
-- Connecting issues to merge requests.
-- Tracking work with epics and roadmaps.
+This is a planned topic. I am not covering GitLab issue tracking in this journal yet. I will add this later after I finish the current GitLab basics.
