@@ -25,6 +25,7 @@ I use this space to document my DevOps learning in a way that feels natural and 
 - `GitLab/` — GitLab learning notes, merge request flow, runner basics, and permission/security notes.
 - `git-cli-tool.sh` — a helper script I use while working with Git repositories.
 - `README.md` — this overview of my learning journal.
+- `Docker/` — notes on Docker basics, containerization, and how I practice building and running containers.
 
 ---
 
