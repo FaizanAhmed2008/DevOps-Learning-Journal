@@ -12,8 +12,8 @@ I use this space to document my DevOps learning in a way that feels natural and 
 
 ## What this repo is for
 
-- Tracking Git and GitLab practice step by step.
-- Turning hands-on work into written notes recruiters can follow.
+- Tracking my DevOps practice step by step.
+- Turning hands-on work into written notes.
 - Showing how I think through branching, remotes, and merge requests.
 - Building a practical documentation style that grows with my learning.
 
@@ -29,28 +29,6 @@ I use this space to document my DevOps learning in a way that feels natural and 
 
 ---
 
-## Topics I am covering now
 
-- Git fundamentals and safe local workflows.
-- Branching strategies and merge request best practices.
-- Working with remotes, pull/push flow, and collaboration.
-- GitLab basics, merge requests, runners, permissions, and container registry.
-
----
-
-## Topics I plan to add later
-
-I am intentionally delaying these until I finish the current fundamentals:
-
-- GitLab CI/CD pipeline details.
-- GitLab issue tracking and boards.
-
-This keeps the current journal focused on the most important Git and GitLab topics for now.
-
----
-
-## How to read this repo
-
-Start with `Git-Github/` to see my Git learning path. Then move to `GitLab/` to follow how I am learning GitLab workflows and command-based practice.
 
 Each folder is written like a study note, not a polished tutorial. That is intentional — it shows my thought process and the practical steps I took while learning.
