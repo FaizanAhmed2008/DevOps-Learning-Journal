@@ -6,7 +6,7 @@ This repository is my personal DevOps study diary. I write what I learn, how I p
 
 ## About this repo
 
-I use this space to document my DevOps learning in a way that feels natural and human. The notes are written like a daily log, with real examples and commands that helped me understand Git, GitHub, and GitLab.
+I use this space to document my DevOps learning in a way that feels natural and human. The notes are written like a daily log, with real examples and commands that helped me understand all the important concepts with practical applications.
 
 ---
 
@@ -23,9 +23,9 @@ I use this space to document my DevOps learning in a way that feels natural and 
 
 - `Git-Github/` — Git and GitHub notes, command examples, and workflow practice.
 - `GitLab/` — GitLab learning notes, merge request flow, runner basics, and permission/security notes.
-- `README.md` — this overview of my learning journal.
 - `Docker/` — notes on Docker basics, containerization, and how I practice building and running containers.
 - `Concept-Project/` — this folder contains some mini-projects that I built to clear my concepts.
+- `README.md` — this overview of my learning journal.
 
 ---
 
