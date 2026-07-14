@@ -26,6 +26,7 @@ I use this space to document my DevOps learning in a way that feels natural and 
 - `git-cli-tool.sh` — a helper script I use while working with Git repositories.
 - `README.md` — this overview of my learning journal.
 - `Docker/` — notes on Docker basics, containerization, and how I practice building and running containers.
+- `Concept-Project/` — this folder contains some mini-projects that I built to clear my concepts.
 
 ---
 
