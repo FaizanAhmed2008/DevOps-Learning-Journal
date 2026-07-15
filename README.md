@@ -24,7 +24,6 @@ I use this space to document my DevOps learning in a way that feels natural and 
 - `Git-Github/` — Git and GitHub notes, command examples, and workflow practice.
 - `GitLab/` — GitLab learning notes, merge request flow, runner basics, and permission/security notes.
 - `Docker/` — notes on Docker basics, containerization, and how I practice building and running containers.
-- `Concept-Project/` — this folder contains some mini-projects that I built to clear my concepts.
 - `README.md` — this overview of my learning journal.
 
 ---
