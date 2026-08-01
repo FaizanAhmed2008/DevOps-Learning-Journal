@@ -25,8 +25,8 @@ I use this space to document my DevOps learning in a way that feels natural and 
 - `GitLab/` — GitLab learning notes, merge request flow, runner basics, and permission/security notes.
 - `Docker/` — notes on Docker basics, containerization, and how I practice building and running containers.
 - `Kubernetes/` — notes on Kubernetes concepts, cluster management, and hands-on practice with pods, services, and deployments.
+- `AWS/` — notes on AWS cloud services, EC2 instance management, and cloud infrastructure practice.
 - `README.md` — this overview of my learning journal.
-- '
 
 ---
 
