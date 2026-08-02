@@ -19,17 +19,16 @@ I use this space to document my DevOps learning in a way that feels natural and 
 
 ---
 
-## Current structure
+## Repository Structure & Covered Topics
 
-- `Git-Github/` — Git and GitHub notes, command examples, and workflow practice.
-- `GitLab/` — GitLab learning notes, merge request flow, runner basics, and permission/security notes.
-- `Docker/` — notes on Docker basics, containerization, and how I practice building and running containers.
-- `Kubernetes/` — notes on Kubernetes concepts, cluster management, and hands-on practice with pods, services, and deployments.
-- `AWS/` — notes on AWS cloud services, EC2 instance management, and cloud infrastructure practice.
-- `README.md` — this overview of my learning journal.
+- **`AWS/`** — Cloud computing notes covering EC2 instances, SSH connection, security groups, and S3 object storage buckets.
+- **`Docker/`** — Containerization notes covering images, containers, volumes, bind mounts, networking, Dockerfiles, multi-stage builds, and practice projects.
+- **`Kubernetes/`** — Cluster orchestration notes covering deployments, services, zero-downtime rollouts, auto-healing, scaling (HPA), YAML configuration files, and persistent volumes (PV/PVC).
+- **`Git-Github/`** — Version control notes, automation scripts, branching strategies, conflict resolution, stashing, and GitHub Actions.
+- **`GitLab/`** — GitLab learning notes, merge request workflows, runners, and basic management commands.
+- **`Cloud-Computing/`** — Additional cloud architecture concepts and provider notes.
+- **`README.md`** — Overview and structure guide for this learning journal repository.
 
 ---
-
-
 
 Each folder is written like a study note, not a polished tutorial. That is intentional — it shows my thought process and the practical steps I took while learning.
