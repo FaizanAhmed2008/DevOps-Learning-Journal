@@ -21,7 +21,7 @@ I use this space to document my DevOps learning in a way that feels natural and 
 
 ## Repository Structure & Covered Topics
 
-- **`AWS/`** — Cloud computing notes covering EC2 instances, SSH connection, security groups, and S3 object storage buckets.
+- **`AWS/`** — Cloud computing notes covering EC2 instances, SSH connection, security groups, S3 buckets, and Apache/NGINX web server deployment.
 - **`Docker/`** — Containerization notes covering images, containers, volumes, bind mounts, networking, Dockerfiles, multi-stage builds, and practice projects.
 - **`Kubernetes/`** — Cluster orchestration notes covering deployments, services, zero-downtime rollouts, auto-healing, scaling (HPA), YAML configuration files, and persistent volumes (PV/PVC).
 - **`Git-Github/`** — Version control notes, automation scripts, branching strategies, conflict resolution, stashing, and GitHub Actions.
