@@ -26,6 +26,8 @@ I use this space to document my DevOps learning in a way that feels natural and 
 - **`Kubernetes/`** — Cluster orchestration notes covering deployments, services, zero-downtime rollouts, auto-healing, scaling (HPA), YAML configuration files, and persistent volumes (PV/PVC).
 - **`Git-Github/`** — Version control notes, automation scripts, branching strategies, conflict resolution, stashing, and GitHub Actions.
 - **`GitLab/`** — GitLab learning notes, merge request workflows, runners, and basic management commands.
+- **`Jenkins/`** — CI/CD automation server notes covering controller/agent setup, Docker deployment, and Declarative Jenkinsfile pipelines.
+- **`Ansible/`** — Infrastructure automation notes covering agentless setup, ad-hoc commands, inventory management, and YAML playbooks.
 - **`Cloud-Computing/`** — Additional cloud architecture concepts and provider notes.
 - **`README.md`** — Overview and structure guide for this learning journal repository.
 
