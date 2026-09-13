@@ -28,6 +28,7 @@ I use this space to document my DevOps learning in a way that feels natural and 
 - **`GitLab/`** — GitLab learning notes, merge request workflows, runners, and basic management commands.
 - **`Jenkins/`** — CI/CD automation server notes covering controller/agent setup, Docker deployment, and Declarative Jenkinsfile pipelines.
 - **`Ansible/`** — Infrastructure automation notes covering agentless setup, ad-hoc commands, inventory management, and YAML playbooks.
+- **`Vercel/`** — Cloud deployment platform notes covering frontend hosting, Git integration, preview deployments, and Vercel CLI commands.
 - **`Cloud-Computing/`** — Additional cloud architecture concepts and provider notes.
 - **`README.md`** — Overview and structure guide for this learning journal repository.
 
