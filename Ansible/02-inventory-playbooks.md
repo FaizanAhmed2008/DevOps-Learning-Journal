@@ -15,7 +15,7 @@ ansible_user=ubuntu
 ansible_ssh_private_key_file=~/.ssh/my-key.pem
 ```
 
-## Playbook Example (`webserver.yml`)
+## Playbook Ex (`webserver.yml`)
 
 ```yaml
 ---
@@ -57,3 +57,5 @@ ansible_ssh_private_key_file=~/.ssh/my-key.pem
 - **YAML indentation**: Must use spaces (not tabs) for consistent structure.
 - **`become: true`**: Runs tasks as `root` user via sudo.
 - **`state: present` / `state: absented`**: Declarative state management.
+
+

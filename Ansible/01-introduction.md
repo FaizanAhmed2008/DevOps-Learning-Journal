@@ -1,4 +1,4 @@
-# Ansible Introduction & Concepts
+# Ansible Introduction 
 
 ## What is Ansible?
 - Open-source **Configuration Management** and **Automation** tool.
