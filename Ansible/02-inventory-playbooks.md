@@ -15,7 +15,7 @@ ansible_user=ubuntu
 ansible_ssh_private_key_file=~/.ssh/my-key.pem
 ```
 
-## Playbook Ex (`webserver.yml`)
+## Playbook Example (`webserver.yml`)
 
 ```yaml
 ---
